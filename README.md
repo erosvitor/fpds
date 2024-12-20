@@ -1,5 +1,5 @@
 # Sobre
-O FPDS (Framework Para Desenvolvimento de Sistemas) é um projeto que apresenta sugestões e modelos de documentação para cada uma das fases do desenvolvimenteo de um sistema.
+Modelos de documentação para cada uma das fases do desenvolvimento de um software.
 
 ## Documentos
 - [Requisitos](01_requisitos/requisitos.md)
