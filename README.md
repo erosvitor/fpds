@@ -27,3 +27,5 @@ O FPDS (Framework Para Desenvolvimento de Sistemas) é um projeto que apresenta 
     - [Log alterações - Inglês](07_manutencoes/log_alteracoes_history.md)
     - [Relatório atendimento técnico](07_manutencoes/relatorio_atendimento_tecnico.md)
 
+## Licença
+Este projeto está sob licença do MIT. Para mais detalhes, ver o arquivo LICENSE.
